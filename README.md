@@ -1,7 +1,4 @@
-# game_of_drones_front
-
-> A Vue.js project
-
+# game_of_drones
 ## Build Setup
 
 ``` bash
